@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2023-06-15 17:19:06 -0400",
       "minecraft:forest": "2023-06-15 15:03:31 -0400",
       "minecraft:beach": "2023-06-15 15:03:44 -0400",
       "minecraft:plains": "2023-06-15 15:03:42 -0400"

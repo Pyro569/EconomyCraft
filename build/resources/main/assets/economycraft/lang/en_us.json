@@ -4,6 +4,14 @@
   "item.economycraft.nickel": "Nickel",
   "item.economycraft.dime": "Dime",
   "item.economycraft.quarter": "Quarter",
+  "item.economycraft.britishpenny": "British Penny",
+  "item.economycraft.twopence": "Two Pence",
+  "item.economycraft.fivepence": "Five Pence",
+  "item.economycraft.tenpence": "Ten Pence",
+  "item.economycraft.twentypence": "Twenty Pence",
+  "item.economycraft.fiftypence": "Fifty Pence",
+  "item.economycraft.pound": "One Pound",
+  "item.economycraft.twopound": "Two Pounds",
 
   "itemGroup.economycraftTab": "EconomyCraft"
 }

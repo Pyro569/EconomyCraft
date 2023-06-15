@@ -1,5 +1,5 @@
 Java Launcher: /home/nathan/.gradle/jdks/jdk8u372-b07/bin/java
-Arguments: '--in-jar, /home/nathan/IdeaProjects/Economy Craft/build/libs/EconomyCraft-1.16.5 [V1.0].jar, --out-jar, /home/nathan/IdeaProjects/Economy Craft/build/reobfJar/output.jar, --srg-in, /home/nathan/IdeaProjects/Economy Craft/build/createMcpToSrg/output.tsrg, --live'
+Arguments: '--in-jar, /home/nathan/IdeaProjects/Economy Craft/build/libs/EconomyCraft-1.0.jar, --out-jar, /home/nathan/IdeaProjects/Economy Craft/build/reobfJar/output.jar, --srg-in, /home/nathan/IdeaProjects/Economy Craft/build/createMcpToSrg/output.tsrg, --live'
 Classpath:
  - /home/nathan/.gradle/caches/forge_gradle/maven_downloader/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0-shaded.jar
  - /home/nathan/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.16.5-36.2.39_mapped_snapshot_20210309-1.16.5/forge-1.16.5-36.2.39_mapped_snapshot_20210309-1.16.5-recomp.jar

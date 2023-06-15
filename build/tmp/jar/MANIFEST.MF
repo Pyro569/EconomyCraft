@@ -3,7 +3,7 @@ Specification-Title: examplemod
 Specification-Vendor: examplemodsareus
 Specification-Version: 1
 Implementation-Title: Economy Craft
-Implementation-Version: 1.16.5 [V1.0]
+Implementation-Version: 1.0
 Implementation-Vendor: examplemodsareus
-Implementation-Timestamp: 2023-06-15T15:10:50-0400
+Implementation-Timestamp: 2023-06-15T16:36:54-0400
 
