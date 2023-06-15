@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " XX",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "economycraft:nickel"
+    }
+  },
+  "result": {
+    "item": "economycraft:dime"
+  }
+}
